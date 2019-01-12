@@ -1,0 +1,12 @@
+[submodule "themes/coder"]
+	path = themes/coder
+	url = https://github.com/naro143/hugo-coder-portfolio.git
+[submodule "themes/UIlite"]
+	path = themes/UIlite
+	url = https://github.com/uicardiodev/hugo-uilite.git
+[submodule "themes/creative"]
+	path = themes/creative
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/slick"]
+	path = themes/slick
+	url = https://github.com/spookey/slick.git
