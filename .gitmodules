@@ -4,12 +4,11 @@
 [submodule "themes/UIlite"]
 	path = themes/UIlite
 	url = https://github.com/uicardiodev/hugo-uilite.git
+
 [submodule "themes/creative"]
 	path = themes/creative
 	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+
 [submodule "themes/slick"]
 	path = themes/slick
 	url = https://github.com/spookey/slick.git
-[submodule "lianeyue-hugo"]
-	path = lianeyue-hugo
-	url = https://github.com/lianeyue/lianeyue-hugo.git
