@@ -12,3 +12,6 @@
 [submodule "themes/slick"]
 	path = themes/slick
 	url = https://github.com/spookey/slick.git
+[submodule "lianeyue.github.io"]
+	path = lianeyue.github.io
+	url = https://github.com/lianeyue/lianeyue.github.io.git
