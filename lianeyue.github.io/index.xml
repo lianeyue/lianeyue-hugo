@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liane Yue</title>
+    <link>https://lianeyue.github.io/</link>
+    <description>Recent content on Liane Yue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lianeyue.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://lianeyue.github.io/posts/theme-demo/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lianeyue.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/about/</guid>
+      <description>I believe in service leadership, in creating opportunities for myself and for others, and in embracing creative chances. Right now, I consult with Ernst &amp;amp; Young to drive technology transformation for clients through strategy, architecture and infrastructure. Before that, I had marvelous experiences managing ERP and CRM deployments at GE Healthcare and Telamon. I&amp;rsquo;ve worked across the life sciences, automotive and utilities industries (to name a few) and developed skills in project management, supply chain process improvement and user experience.</description>
+    </item>
+    
+    <item>
+      <title>Illustration</title>
+      <link>https://lianeyue.github.io/illustration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/illustration/</guid>
+      <description>For commissions or samples of my work, feel free to email me or message me on Twitter.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://lianeyue.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lianeyue.github.io/projects/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+  </channel>
+</rss>
