@@ -5,4 +5,4 @@ thumbnail = "images/tn.png"
 description = "projects"
 +++
 ---------------------------
-Coming soon!
+Coming soon.
