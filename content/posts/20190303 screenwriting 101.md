@@ -18,7 +18,7 @@ I took a film class called "Screenwriting 101" at Second City this spring. The i
 9. Shame on you! Share what you haven't seen or listened to, or worse, something that everyone likes that you just don't get.
 10. Finally, share your all-time favorites.
 
-I'm still working on my answers, so stay tuned to see the full article at ![strtchmrks.com](wwww.strtchmrks.com).
+I'm still working on my answers, so stay tuned to see the full article at [strtchmrks.com](https://www.strtchmrks.com).
 
 XX
 Liane
