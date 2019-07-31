@@ -23,3 +23,6 @@ I'm still working on my answers, so stay tuned to see the full article at [strtc
 XX
 Liane
 
+-----
+
+[__← Return__](/posts)
