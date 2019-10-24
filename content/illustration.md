@@ -19,3 +19,5 @@ description = "illustration"
 **Digital and Illustration**. I like to sketch in pen/pencil and finish with Photoshop, Illustrator or Krita.
 
 For commissions or additional examples, feel free to shoot me an [email](mailto:liane.yue@gmail.com).
+
+---------------------------

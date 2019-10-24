@@ -20,3 +20,60 @@ Kind regards,<br>
 *Liane*
 
 {{% /portfolio %}}
+
+<br>
+
+---------------------------
+{{% casestudy %}}
+<div class="begin-examples"></div>
+
+### Experience
+__ERNST AND YOUNG ADVISORY__<br>
+New York, NY, 2017 - Present<br>
+Senior Technology Transformation Consultant<br>
+
+__GENERAL ELECTRIC__<br>
+Milwaukee, WI, 2015<br>
+IT Leadership Program Intern<br>
+
+__TELAMON CORPORATION__<br>
+Carmel, IN, 2014 - 2015<br>
+Purchasing and Database Management Intern<br><br>
+*
+### Education
+__INDIANA UNIVERSITY__<br>
+__KELLEY SCHOOL OF BUSINESS__<br>
+Bloomington, IN, 2013 - 2017<br>
+BSB in Information Systems w/ Highest Distinction<br>
+Minor in Economics<br><br>
+__NEOMA BUSINESS SCHOOL__<br>
+Rouen, Normandy, FR, 2016<br>
+Séjour D’Échange, CEFR B2 <br><br>
+
+### Skills
+| BUSINESS      | CREATIVE      | TECHNICAL
+| :---:         | :---:         | :---:
+| Excel VBA     | Illustrator   | HTML/CSS
+| PowerPoint    | Photoshop     | Javascript
+| Visual Studio | InDesign      | AutoCAD
+| SQL Server    | Adobe XD      | Laser Cutting
+
+
+### Industry Lines
+Healthcare<br>
+Technology<br>
+Automotive<br>
+Talent<br>
+Utilities<br>
+
+### Contact
+[Email](mailto:liane.yue@gmail.com?subject:Hello!)<br>
+[LinkedIn](http://www.linkedin.com/in/lianeyue)<br>
+[Facebook](http://www.facebook.com/lianeyue)<br>
+[Instagram](http://www.instagram.com/lianeyue)<br>
+[GitHub](https://github.com/lianeyue)<br>
+
+<div class="end-examples"></div>
+{{% /casestudy %}}
+
+---------------------------
