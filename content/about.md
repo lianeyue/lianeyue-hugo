@@ -39,7 +39,7 @@ IT Leadership Program Intern<br>
 __TELAMON CORPORATION__<br>
 Carmel, IN, 2014 - 2015<br>
 Purchasing and Database Management Intern<br><br>
-*
+
 ### Education
 __INDIANA UNIVERSITY__<br>
 __KELLEY SCHOOL OF BUSINESS__<br>
