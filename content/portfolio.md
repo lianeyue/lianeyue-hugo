@@ -74,6 +74,14 @@ description = "projects"
 
 <br>
 
+### Mission Statement
+I 
+
+
+Despite the sometimes scary projections for our planet’s future in a changing climate, I am optimistic about the capacity of our society to refine our trajectory. This refinement will require dramatic changes in the technologies we use to create the comforts we have become accustom to. I see my role in this trajectory at the intersection of sustainable technology and the communities that need them. I will use whatever skill sets I have, and develop the ones I can, in order to fill these needs.
+
+<br>
+
 ---
 <br>
 

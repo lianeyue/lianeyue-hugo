@@ -65,17 +65,17 @@ disqusShortname = "lianeyue" # Enable or disable Disqus.
 
 # Menu Links
 [[menu.main]]
-    name = "Writing"
+    name = "Projects"
     weight = 1
-    url  = "posts"
+    url  = "projects"
+[[menu.main]]
+    name = "Writing"
+    weight = 2
+    url = "posts"
 [[menu.main]]
     name = "Illustration"
-    weight = 2
-    url = "illustration"
-[[menu.main]]
-    name = "Projects"
     weight = 3
-    url = "projects"
+    url = "illustration"
 [[menu.main]]
     name = "About"
     weight = 4

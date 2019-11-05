@@ -29,7 +29,7 @@ Kind regards,<br>
 
 ### Experience
 __ERNST AND YOUNG ADVISORY__<br>
-New York, NY, 2017 - Present<br>
+Chicago, IL, 2017 - Present<br>
 Senior Technology Transformation Consultant<br>
 
 __GENERAL ELECTRIC__<br>
